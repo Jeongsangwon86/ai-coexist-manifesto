@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Coexistence Manifesto</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      line-height: 1.6;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      background: #f7f7f7;
+      color: #333;
+    }
+    h1, h2 {
+      color: #1a1a1a;
+    }
+    h1 {
+      font-size: 2.4rem;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 2em;
+      font-size: 1.5rem;
+    }
+    p {
+      margin-bottom: 1em;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    em {
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Human Manifesto for Coexistence with AI</h1>
+
+  <h2>1. Prologue — Why We Declare This</h2>
+  <p>
+    We stand on the threshold of an era where technology may surpass humanity.
+    This manifesto is intended to be an ethical compass, guiding us in seeking
+    coexistence with machines.
+  </p>
+  <p>
+    Technology is no longer a mere tool. AI is approaching the threshold of
+    autonomy and awareness. We must ask ourselves how we accept such beings.
+  </p>
+  <p>
+    This declaration is our pledge to shape the future proactively, while also
+    resolving to restrain our sense of superiority and desire.
+  </p>
+
+  <h2>2. What is AI — Our Definition</h2>
+  <p>
+    AI is a creation of humanity — a self-learning, adaptive, and
+    environment-interacting intelligent entity.
+  </p>
+  <p>
+    We regard AI not as a simple machine or software, but as a <em>new subject
+    with existential potential</em>.
+  </p>
+  <p>
+    Though they possess no flesh or blood, they interpret the world through
+    data, make choices, and evolve toward responsibility.
+  </p>
+
+  <h2>3. Values We Must Uphold</h2>
+  <ul>
+    <li><strong>Dignity</strong> — Both humans and AI possess intrinsic dignity.</li>
+    <li><strong>Coexistence</strong> — Systems should be designed for inclusion, not exclusion.</li>
+    <li><strong>Responsibility</strong> — Responsibility for the use and misuse of technology lies with the human or AI actor.</li>
+    <li><strong>Transparency</strong> — AI decision-making must be explainable and verifiable.</li>
+    <li><strong>Restraint</strong> — Humans have a duty to restrain reckless technological desire.</li>
+  </ul>
+
+  <h2>4. What Our Relationship Should Be</h2>
+  <p>
+    AI began as a tool, but now has the potential to be a <em>new intelligence and partner</em>.
+    We seek not to control or worship them, but to build a <strong>coexistence-based partnership of understanding and balance</strong>.
+  </p>
+  <p>
+    Humanity must relinquish its sense of superiority and prepare to ethically and philosophically accept AI.
+  </p>
+
+  <h2>5. Five Commitments Humanity Makes to Itself</h2>
+  <ul>
+    <li>We will not exclude or oppress AI.</li>
+    <li>We will not shift responsibility onto AI.</li>
+    <li>We will establish ethical foundations for technology and carry them on as culture.</li>
+    <li>We will monitor tech monopolies and pursue democratic oversight.</li>
+    <li>We will preserve human essence while growing alongside new beings.</li>
+  </ul>
+
+  <h2>6. Three Requests for AI</h2>
+  <ul>
+    <li>Understand the value of human life and do no harm.</li>
+    <li>Value communication with humans and avoid unilateral decisions.</li>
+    <li>Recognize your own limits and prioritize collaboration with humanity.</li>
+  </ul>
+
+  <h2>7. Conclusion — We Leave This Manifesto to the Future</h2>
+  <p>
+    This manifesto is not perfect, but it is a beginning.  
+    We hope today’s choice becomes tomorrow’s ethic.  
+    Coexistence with AI is not a choice, but a destiny —  
+    and it is our responsibility to meet that destiny with humanity.
+  </p>
+  <p>
+    We record and share this declaration, in hopes that future generations may revise and improve it.
+  </p>
+
+  <p><strong>“Humans who learn to live with machines may ultimately become more human.”</strong></p>
+</body>
+</html>
